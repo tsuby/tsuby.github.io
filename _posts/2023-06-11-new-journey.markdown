@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting a new journey"
-date:   2023-06-11 15:04:00 +0200
+date:   2023-06-11 12:04:00 +0200
 categories: jekyll update
 ---
 **What's worth documenting? - Everything!**
